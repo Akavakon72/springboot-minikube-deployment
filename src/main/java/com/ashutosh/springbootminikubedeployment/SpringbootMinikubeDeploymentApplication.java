@@ -1,13 +1,13 @@
-package com.ashutosh.configureresttemplate;
+package com.ashutosh.springbootminikubedeployment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConfigureRestTemplateApplication {
+public class SpringbootMinikubeDeploymentApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ConfigureRestTemplateApplication.class, args);
+		SpringApplication.run(SpringbootMinikubeDeploymentApplication.class, args);
 	}
 
 }

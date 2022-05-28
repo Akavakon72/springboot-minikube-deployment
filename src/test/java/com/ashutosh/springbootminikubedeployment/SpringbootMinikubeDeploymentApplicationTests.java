@@ -1,10 +1,10 @@
-package com.ashutosh.configureresttemplate;
+package com.ashutosh.springbootminikubedeployment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConfigureRestTemplateApplicationTests {
+class SpringbootMinikubeDeploymentApplicationTests {
 
 	@Test
 	void contextLoads() {
